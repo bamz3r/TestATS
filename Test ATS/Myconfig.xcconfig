@@ -1,0 +1,12 @@
+//
+//  Myconfig.xcconfig
+//  Test ATS
+//
+//  Created by Bambang on 25/01/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// set this if you have a valid credential for github api
+MY_GITHUB_API_TOKEN = dummy_key

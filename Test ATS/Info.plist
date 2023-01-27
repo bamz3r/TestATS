@@ -64,5 +64,7 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>MyGithubToken</key>
+    <string>$(MY_GITHUB_API_TOKEN)</string>
 </dict>
 </plist>
